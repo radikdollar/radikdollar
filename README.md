@@ -1,243 +1,108 @@
 <div align="center">
-
-<!-- ============ 00 // ANIMATED EDITORIAL HERO & LIVE TICKER ============ -->
-<a href="https://radikdollar.com/" target="_blank" rel="noopener">
-  <img src="assets/img/github/hero.svg" width="100%" alt="RADIKDOLLAR (RADIK$) — New School Artist · Atlanta, GA · Official Site & Catalog" />
-</a>
-
-<br/>
-
-<!-- ============ GLOBAL STREAMING & SIGNAL BAR ============ -->
-<p align="center">
-  <a href="https://radikdollar.com/" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL_SITE-RADIKDOLLAR.COM-ff3b1f?style=for-the-badge&labelColor=060608" alt="Official Site" /></a>
-  <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7" target="_blank"><img src="https://img.shields.io/badge/SPOTIFY-STREAM-1ed760?style=for-the-badge&logo=spotify&logoColor=1ed760&labelColor=060608" alt="Spotify" /></a>
-  <a href="https://music.apple.com/us/search?term=Radikdollar" target="_blank"><img src="https://img.shields.io/badge/APPLE_MUSIC-LISTEN-fa243c?style=for-the-badge&logo=applemusic&logoColor=fa243c&labelColor=060608" alt="Apple Music" /></a>
-  <a href="https://soundcloud.com/radikdollar" target="_blank"><img src="https://img.shields.io/badge/SOUNDCLOUD-RADIK$-ff5500?style=for-the-badge&logo=soundcloud&logoColor=ff5500&labelColor=060608" alt="SoundCloud" /></a>
-  <a href="https://music.youtube.com/search?q=Radikdollar" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE_MUSIC-PLAY-ff0033?style=for-the-badge&logo=youtubemusic&logoColor=ff0033&labelColor=060608" alt="YouTube Music" /></a>
-  <a href="https://listen.tidal.com/search?q=Radikdollar" target="_blank"><img src="https://img.shields.io/badge/TIDAL-HI--RES-f2f0ea?style=for-the-badge&logo=tidal&logoColor=f2f0ea&labelColor=060608" alt="TIDAL" /></a>
-  <a href="https://www.amazon.com/music/player/artists/B0F94KX9SS/radikdollar" target="_blank"><img src="https://img.shields.io/badge/AMAZON_MUSIC-STREAM-00a8e1?style=for-the-badge&logo=amazonmusic&logoColor=00a8e1&labelColor=060608" alt="Amazon Music" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/radikdollar/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-@RADIKDOLLAR-e4405f?style=flat-square&logo=instagram&logoColor=ffffff&labelColor=0c0c10" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@radikdollar" target="_blank"><img src="https://img.shields.io/badge/TIKTOK-@RADIKDOLLAR-00f2fe?style=flat-square&logo=tiktok&logoColor=ffffff&labelColor=0c0c10" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@radikdollar" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-@RADIKDOLLAR-ff0033?style=flat-square&logo=youtube&logoColor=ffffff&labelColor=0c0c10" alt="YouTube" /></a>
-  <a href="https://www.snapchat.com/add/radikdollar" target="_blank"><img src="https://img.shields.io/badge/SNAPCHAT-RADIKDOLLAR-fffc00?style=flat-square&logo=snapchat&logoColor=fffc00&labelColor=0c0c10" alt="Snapchat" /></a>
-  <a href="https://linktr.ee/radikdollar" target="_blank"><img src="https://img.shields.io/badge/LINKTREE-ALL_LINKS-43e55e?style=flat-square&logo=linktree&logoColor=43e55e&labelColor=0c0c10" alt="Linktree" /></a>
-  <a href="mailto:booking@radikdollar.com"><img src="https://img.shields.io/badge/BOOKING-BOOKING@RADIKDOLLAR.COM-ff3b1f?style=flat-square&logo=gmail&logoColor=ff3b1f&labelColor=0c0c10" alt="Booking Email" /></a>
-</p>
-
-<br/>
-
-<!-- ============ 01 // HOLOGRAPHIC 3D ARTIST PASS & BIO DOSSIER ============ -->
-<a href="https://radikdollar.com/#about" target="_blank" rel="noopener">
-  <img src="assets/img/github/artist-pass.svg" width="100%" alt="Fig. 01 — Interactive 3D Artist Pass (RDK—0010—26) · Radikdollar Profile" />
-</a>
-
-<br/><br/>
-
-<!-- ============ 02 // FEATURED RELEASE: 3D CD JEWEL CASE & LIVE AUDIO DECK ============ -->
-<a href="https://open.spotify.com/album/1FXzMe8UMfdkNG07ILCqbu" target="_blank" rel="noopener">
-  <img src="assets/img/github/now-playing.svg" width="100%" alt="Fig. 02 — Cashmere (2026) · Latest Single · RDK—010" />
-</a>
-
-<p align="center">
-  <a href="https://open.spotify.com/album/1FXzMe8UMfdkNG07ILCqbu" target="_blank"><img src="https://img.shields.io/badge/▶_CASHMERE-SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=1ed760&labelColor=0c0c10" alt="Cashmere on Spotify" /></a>
-  <a href="https://music.apple.com/us/search?term=Radikdollar%20Cashmere" target="_blank"><img src="https://img.shields.io/badge/▶_CASHMERE-APPLE_MUSIC-fa243c?style=flat-square&logo=applemusic&logoColor=fa243c&labelColor=0c0c10" alt="Cashmere on Apple Music" /></a>
-  <a href="https://soundcloud.com/radikdollar/cashmere" target="_blank"><img src="https://img.shields.io/badge/▶_CASHMERE-SOUNDCLOUD-ff5500?style=flat-square&logo=soundcloud&logoColor=ff5500&labelColor=0c0c10" alt="Cashmere on SoundCloud" /></a>
-  <a href="https://music.youtube.com/search?q=Radikdollar+Cashmere" target="_blank"><img src="https://img.shields.io/badge/▶_CASHMERE-YOUTUBE_MUSIC-ff0033?style=flat-square&logo=youtubemusic&logoColor=ff0033&labelColor=0c0c10" alt="Cashmere on YouTube Music" /></a>
-  <a href="https://listen.tidal.com/search?q=Radikdollar%20Cashmere" target="_blank"><img src="https://img.shields.io/badge/▶_CASHMERE-TIDAL-f2f0ea?style=flat-square&logo=tidal&logoColor=f2f0ea&labelColor=0c0c10" alt="Cashmere on TIDAL" /></a>
-</p>
-
+  <img src="assets/img/github/header.svg" width="100%" alt="Radion Vakhromeev — Machine Learning & Data Science · Python Software Engineer" />
 </div>
+
+<p align="center">
+  <a href="mailto:radikvahromeev@gmail.com"><img src="https://img.shields.io/badge/Email-radikvahromeev%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://radikdollar.com"><img src="https://img.shields.io/badge/Website-radikdollar.com-10b981?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Website" /></a>
+  <a href="mailto:booking@radikdollar.com"><img src="https://img.shields.io/badge/Inquiries_%26_Booking-booking%40radikdollar.com-f97316?style=flat-square&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Booking" /></a>
+  <a href="https://www.instagram.com/radikdollar/"><img src="https://img.shields.io/badge/Instagram-%40radikdollar-8b949e?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" /></a>
+</p>
 
 ---
 
-### `(02) CATALOG INDEX // DISCOGRAPHY 2024 — 2026`
+### `01 // Overview`
+
+Software developer focused on **Machine Learning**, **Data Science**, and **Python Engineering**. I build data-driven solutions across the full lifecycle — from exploratory data analysis (EDA), statistical modeling, and feature engineering to training predictive models and packaging them into clean, reproducible code.
+
+- **Core Focus**: Classical ML, Deep Learning (`PyTorch`), Tabular & Signal Data Analysis, Feature Engineering, Predictive Modeling
+- **Engineering Background**: Information Systems & Technologies (`IRNITU`), with practical experience in Python, SQL, native iOS (`Swift`), and zero-dependency web/WebGL systems
+- **Contact**: [`radikvahromeev@gmail.com`](mailto:radikvahromeev@gmail.com) (Engineering / Career) · [`booking@radikdollar.com`](mailto:booking@radikdollar.com) (General / Media & Booking)
+
+---
+
+### `02 // Technical Stack`
 
 <table width="100%">
   <thead>
     <tr>
-      <th align="left">CAT.</th>
-      <th align="center">COVER</th>
-      <th align="left">RELEASE</th>
-      <th align="left">NOTE / CREDITS</th>
-      <th align="center">YEAR</th>
-      <th align="center">TIME</th>
-      <th align="right">DIRECT STREAM</th>
+      <th align="left" width="28%">Domain</th>
+      <th align="left" width="72%">Technologies &amp; Tools</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><code>RDK—010</code></td>
-      <td align="center"><a href="https://open.spotify.com/album/1FXzMe8UMfdkNG07ILCqbu"><img src="assets/img/covers/cashmere.jpg" width="44" height="44" alt="Cashmere" /></a></td>
-      <td><a href="https://open.spotify.com/album/1FXzMe8UMfdkNG07ILCqbu"><strong>Cashmere</strong></a></td>
-      <td><code>● LATEST SINGLE</code></td>
-      <td align="center"><code>2026</code></td>
-      <td align="center"><code>01:42</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/album/1FXzMe8UMfdkNG07ILCqbu"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Cashmere"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/cashmere"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
+      <td><strong>Machine Learning &amp; DL</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" alt="CatBoost" />
+        <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
       </td>
     </tr>
     <tr>
-      <td><code>RDK—009</code></td>
-      <td align="center"><a href="https://open.spotify.com/track/1j8G2I7thSOVrIvfbuSu0c"><img src="assets/img/covers/bitches-kids.jpg" width="44" height="44" alt="Bitches Kids" /></a></td>
-      <td><a href="https://open.spotify.com/track/1j8G2I7thSOVrIvfbuSu0c"><strong>Bitches Kids</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2025</code></td>
-      <td align="center"><code>02:13</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/track/1j8G2I7thSOVrIvfbuSu0c"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Bitches%20Kids"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/bitcheskids"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
+      <td><strong>Data Science &amp; Analytics</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
       </td>
     </tr>
     <tr>
-      <td><code>RDK—008</code></td>
-      <td align="center"><a href="https://open.spotify.com/track/1aVBmItac8DkJMI1EcIHst"><img src="assets/img/covers/sims.jpg" width="44" height="44" alt="Sims" /></a></td>
-      <td><a href="https://open.spotify.com/track/1aVBmItac8DkJMI1EcIHst"><strong>Sims</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2025</code></td>
-      <td align="center"><code>01:40</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/track/1aVBmItac8DkJMI1EcIHst"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Sims"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/sims"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
+      <td><strong>Data Engineering &amp; Backend</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
       </td>
     </tr>
     <tr>
-      <td><code>RDK—007</code></td>
-      <td align="center"><a href="https://open.spotify.com/track/1vEg0MvoruyuceMth9sPwF"><img src="assets/img/covers/luv-drowng.jpg" width="44" height="44" alt="Luv Drowng" /></a></td>
-      <td><a href="https://open.spotify.com/track/1vEg0MvoruyuceMth9sPwF"><strong>Luv Drowng</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2025</code></td>
-      <td align="center"><code>01:52</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/track/1vEg0MvoruyuceMth9sPwF"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Luv%20Drowng"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/luvdrowng"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—006</code></td>
-      <td align="center"><a href="https://soundcloud.com/radikdollar/memories"><img src="assets/img/covers/memories.jpg" width="44" height="44" alt="Memories" /></a></td>
-      <td><a href="https://soundcloud.com/radikdollar/memories"><strong>Memories</strong></a></td>
-      <td><code>prod. pluggikila</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>01:48</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Memories"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/memories"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—005</code></td>
-      <td align="center"><a href="https://soundcloud.com/radikdollar/vendetta"><img src="assets/img/covers/vendetta.jpg" width="44" height="44" alt="Vendetta" /></a></td>
-      <td><a href="https://soundcloud.com/radikdollar/vendetta"><strong>Vendetta</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>02:04</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Vendetta"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/vendetta"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—004</code></td>
-      <td align="center"><a href="https://soundcloud.com/radikdollar/nosex"><img src="assets/img/covers/nosex.jpg" width="44" height="44" alt="NoSex" /></a></td>
-      <td><a href="https://soundcloud.com/radikdollar/nosex"><strong>NoSex</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>02:32</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20NoSex"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/nosex"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—003</code></td>
-      <td align="center"><a href="https://youtu.be/wegohty_bT4"><img src="assets/img/covers/number-nine.jpg" width="44" height="44" alt="Number Nine" /></a></td>
-      <td><a href="https://youtu.be/wegohty_bT4"><strong>Number Nine</strong></a></td>
-      <td><code>🎬 Official Video</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>01:53</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://soundcloud.com/radikdollar/numbernine"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-        <a href="https://youtu.be/wegohty_bT4"><img src="https://img.shields.io/badge/VIDEO-ff0033?style=flat-square&logo=youtube&logoColor=ffffff" alt="YouTube" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—002</code></td>
-      <td align="center"><a href="https://soundcloud.com/radikdollar/dirty-trench"><img src="assets/img/covers/dirty-trench.jpg" width="44" height="44" alt="Dirty Trench" /></a></td>
-      <td><a href="https://soundcloud.com/radikdollar/dirty-trench"><strong>Dirty Trench</strong></a></td>
-      <td><code>Single</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>02:08</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Dirty%20Trench"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/dirty-trench"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td><code>RDK—001</code></td>
-      <td align="center"><a href="https://soundcloud.com/radikdollar/russiankid"><img src="assets/img/covers/russian-kid.jpg" width="44" height="44" alt="Russian Kid" /></a></td>
-      <td><a href="https://soundcloud.com/radikdollar/russiankid"><strong>Russian Kid</strong></a></td>
-      <td><code>Debut Single</code></td>
-      <td align="center"><code>2024</code></td>
-      <td align="center"><code>02:26</code></td>
-      <td align="right">
-        <a href="https://open.spotify.com/artist/4XYHj8N4DsYDeOlkUkZfE7"><img src="https://img.shields.io/badge/SPOTIFY-1ed760?style=flat-square&logo=spotify&logoColor=060608" alt="Spotify" /></a>
-        <a href="https://music.apple.com/us/search?term=Radikdollar%20Russian%20Kid"><img src="https://img.shields.io/badge/APPLE-fa243c?style=flat-square&logo=applemusic&logoColor=ffffff" alt="Apple" /></a>
-        <a href="https://soundcloud.com/radikdollar/russiankid"><img src="https://img.shields.io/badge/SC-ff5500?style=flat-square&logo=soundcloud&logoColor=ffffff" alt="SC" /></a>
+      <td><strong>Client &amp; Systems Engineering</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5/CSS3" />
+        <img src="https://img.shields.io/badge/WebGL_%2F_GLSL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
       </td>
     </tr>
   </tbody>
 </table>
 
-<br/>
+---
 
-<div align="center">
+### `03 // Core Competencies`
 
-<!-- ============ 03 // OFFICIAL MUSIC VIDEO HUD: NUMBER (N)INE ============ -->
-<a href="https://youtu.be/wegohty_bT4" target="_blank" rel="noopener">
-  <img src="assets/img/github/visuals-hud.svg" width="100%" alt="Fig. 03 — Number (N)ine Official Music Video (Watch on YouTube)" />
-</a>
+| Area | Focus & Methodology |
+| :--- | :--- |
+| **Predictive Modeling** | Classification, regression, gradient boosting ensembles (`XGBoost`, `CatBoost`, `LightGBM`), stratified cross-validation, hyperparameter tuning, and metric optimization (`ROC-AUC`, `PR-AUC`, `F1`, `RMSE`). |
+| **Data Analysis & EDA** | End-to-end data cleaning, statistical hypothesis testing, feature extraction & selection, anomaly detection, and structured visual reporting (`Pandas`, `NumPy`, `SciPy`, `Seaborn`). |
+| **Deep Learning** | Neural network design and training pipelines in `PyTorch`, custom `Dataset`/`DataLoader` workflows, representation learning, and signal/audio processing. |
+| **Software Engineering** | Clean, modular Python architecture, RESTful model inference services (`FastAPI`), version control (`Git`), native iOS apps (`Swift`), and high-performance frontend interfaces. |
 
-<br/><br/>
+---
 
-<!-- ============ 05 // ANODIZED CHROME BOOKING & MANAGEMENT PLATE ============ -->
-<a href="mailto:booking@radikdollar.com">
-  <img src="assets/img/github/booking-plate.svg" width="100%" alt="Fig. 04 — Booking & Inquiries: booking@radikdollar.com · RDK—PLATE—0005" />
-</a>
+### `04 // Selected Repositories`
 
-</div>
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| [**`radikdollar/internship`**](https://github.com/radikdollar/internship) | `Python` | Suite of 11 algorithmic, data-processing, and computational modules with documented solutions and analysis. |
+| [**`radikdollar/FastFoodTracker`**](https://github.com/radikdollar/FastFoodTracker) | `Swift` · `iOS` | Native iOS application for nutrition logging, consumption tracking, and personal data analytics. |
+| [**`radikdollar/radikdollar`**](https://github.com/radikdollar/radikdollar) | `JS` · `WebGL` · `CSS3` | Official web platform ([`radikdollar.com`](https://radikdollar.com)) — zero-dependency architecture with custom GLSL shaders and 3D physics. |
+| [**`radikdollar/bulletvelocity`**](https://github.com/radikdollar/bulletvelocity) | `JavaScript` | Interactive kinematics, velocity, and trajectory simulation engine. |
 
-<br/>
+---
 
-<details>
-<summary><code>⚙️ REPOSITORY ARCHITECTURE // RADIKDOLLAR.COM SOURCE &amp; RUNTIME</code></summary>
+### `05 // Contact & Links`
 
-<br/>
-
-Single-page official artist platform for **Radikdollar (`RADIK$`)** — engineered with zero external frameworks, zero build step, and zero third-party network requests until video playback is triggered.
-
-- **Stack**: Semantic HTML5 (`index.html`), Custom CSS3 3D Transforms & Variable Typography (`assets/css/main.css`), Vanilla JS + WebGL GLSL Fragment Shader (`assets/js/main.js`).
-- **Interactive Modules**:
-  - Custom WebGL reactive background shader + variable-font cursor proximity physics
-  - 3D gyroscope & pointer-reactive Holographic Artist ID Card (`RDK—0010—26`)
-  - Interactive 3D CD Jewel Case with disc-eject state machine (`Cashmere · RDK—010`)
-  - Privacy-first YouTube cinema stage (`Number (N)ine`) & anodized chrome clipboard plate
-
-```sh
-python3 -m http.server 8080
-# → http://localhost:8080
-```
-
-</details>
+- **Career & Engineering Inquiries**: [`radikvahromeev@gmail.com`](mailto:radikvahromeev@gmail.com)
+- **Official Website**: [`https://radikdollar.com`](https://radikdollar.com)
+- **Booking & Media Inquiries**: [`booking@radikdollar.com`](mailto:booking@radikdollar.com)
+- **Social / Direct**: [Instagram `@radikdollar`](https://www.instagram.com/radikdollar/) · [Linktree](https://linktr.ee/radikdollar)
