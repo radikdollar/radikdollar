@@ -284,22 +284,12 @@
       byId.forEach((_, id) => { const s = document.getElementById(id); if (s) io.observe(s); });
     }
 
-    // Synchronized Atlanta clock
+    // Local clock
     const clocks = $$('[data-clock]');
     if (clocks.length) {
-      let fmt = null;
-      try {
-        fmt = new Intl.DateTimeFormat('en-GB', {
-          timeZone: 'America/New_York',
-          hour: '2-digit',
-          minute: '2-digit',
-          second: '2-digit',
-          hourCycle: 'h23',
-        });
-      } catch { fmt = null; }
       const updateClock = () => {
         const now = new Date();
-        const s = fmt ? fmt.format(now) : now.toTimeString().slice(0, 8);
+        const s = now.toTimeString().slice(0, 8);
         clocks.forEach((c) => { c.textContent = s; c.dateTime = now.toISOString(); });
       };
       updateClock();

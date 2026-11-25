@@ -1193,7 +1193,7 @@ i {
   isolation: isolate;
   transition: background 0.35s var(--ease);
 }
-/* Subtle bottom laser hairline sweep on hover instead of tacky zoom */
+/* Subtle bottom hairline sweep on hover — neutral, no green */
 .row::after {
   content: "";
   position: absolute;
@@ -1201,7 +1201,7 @@ i {
   right: 0;
   bottom: -1px;
   height: 1px;
-  background: linear-gradient(90deg, var(--spotify), var(--fg) 55%, transparent);
+  background: linear-gradient(90deg, var(--fg-2), transparent 80%);
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.55s var(--ease);
@@ -1214,54 +1214,20 @@ i {
   transform: scaleX(1);
 }
 
-/* Track number -> minimalist equalizer indicator on hover */
+/* Track number — stays visible on hover, subtle brighten */
 .row__no {
   position: relative;
   display: inline-flex;
   align-items: center;
   height: 18px;
   color: var(--fg-3);
+  transition: color 0.25s var(--ease);
+}
+.row:hover .row__no {
+  color: var(--fg-2);
 }
 .row__num {
-  transition: opacity 0.25s var(--ease), transform 0.25s var(--ease);
-}
-.row__eq {
-  position: absolute;
-  left: 0;
-  display: inline-flex;
-  align-items: flex-end;
-  gap: 2.5px;
-  height: 13px;
-  opacity: 0;
-  transform: translateY(3px);
-  transition: opacity 0.25s var(--ease), transform 0.25s var(--ease);
-}
-.row__eq i {
-  width: 2px;
-  background: var(--spotify);
-  border-radius: 1px;
-  height: 4px;
-}
-.row:hover .row__num {
-  opacity: 0;
-  transform: translateY(-3px);
-}
-.row:hover .row__eq {
-  opacity: 1;
-  transform: translateY(0);
-}
-.row:hover .row__eq i:nth-child(1) {
-  animation: eq-bar 0.75s ease-in-out infinite;
-}
-.row:hover .row__eq i:nth-child(2) {
-  animation: eq-bar 0.75s ease-in-out 0.18s infinite;
-}
-.row:hover .row__eq i:nth-child(3) {
-  animation: eq-bar 0.75s ease-in-out 0.34s infinite;
-}
-@keyframes eq-bar {
-  0%, 100% { height: 4px; }
-  50% { height: 13px; }
+  transition: opacity 0.25s var(--ease);
 }
 
 .row__title {
@@ -1354,12 +1320,12 @@ i {
 }
 .row__links a.is-sp {
   color: var(--fg);
-  border-color: rgba(30, 215, 96, 0.3);
-  background: rgba(30, 215, 96, 0.07);
+  border-color: var(--line-2);
+  background: rgba(255, 255, 255, 0.045);
 }
 .row__links a.is-sp:hover {
-  border-color: rgba(30, 215, 96, 0.65);
-  background: rgba(30, 215, 96, 0.16);
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .index__foot {
